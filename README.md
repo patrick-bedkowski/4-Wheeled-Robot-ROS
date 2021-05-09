@@ -8,3 +8,7 @@ Supported distributions:
 * Kinetics
 
 ![robot_made_from_turtles](robot.gif)
+
+Essential Python modules:
+* Numpy
+* pynput
